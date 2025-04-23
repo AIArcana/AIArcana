@@ -5,7 +5,7 @@
   <h3>The First Fair-Launch AI Tarot Divination Platform in the Solana Ecosystem</h3>
   <p>
     <a href="https://www.aiarcana.lat" target="_blank">Official Website</a> •
-    <a href="https://x.com/SolWearableAi" target="_blank">Twitter</a>
+    <a href="https://x.com/AIArcanaSol" target="_blank">Twitter</a>
   </p>
 </div>
 
@@ -195,7 +195,7 @@ The $ARC token is designed as a 100% fair launch with:
 ## 🌐 Community & Resources
 
 - [Official Website](https://www.aiarcana.lat)
-- [Twitter](https://x.com/SolWearableAi)
+- [Twitter](https://x.com/AIArcanaSol)
 
 ## 📄 License
 
