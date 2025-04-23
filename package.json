@@ -1,0 +1,45 @@
+{
+  "name": "aiarcana",
+  "version": "0.1.0",
+  "description": "The First Fair-Launch AI Tarot Divination Platform in the Solana Ecosystem",
+  "private": true,
+  "scripts": {
+    "dev": "cd app && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "test": "npm run test:app && npm run test:backend",
+    "test:app": "cd app && npm test",
+    "test:backend": "cd backend && npm test",
+    "build": "npm run build:app && npm run build:backend",
+    "build:app": "cd app && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "start": "cd backend && npm start",
+    "postinstall": "npm run install:app && npm run install:backend",
+    "install:app": "cd app && npm install",
+    "install:backend": "cd backend && npm install"
+  },
+  "workspaces": [
+    "app",
+    "backend"
+  ],
+  "keywords": [
+    "blockchain",
+    "solana",
+    "tarot",
+    "ai",
+    "divination"
+  ],
+  "author": "AIArcana Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-organization/aiarcana.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-organization/aiarcana/issues"
+  },
+  "homepage": "https://aiarcana.io"
+} 
