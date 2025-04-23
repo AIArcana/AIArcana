@@ -192,11 +192,6 @@ The $ARC token is designed as a 100% fair launch with:
 - No presale, no team allocation, no VC distribution
 - 50% of divination fees used for buy-back and burn
 
-## 🌐 Community & Resources
-
-- [Official Website](https://www.aiarcana.lat)
-- [Twitter](https://x.com/AIArcanaSol)
-
 ## 📄 License
 
 This project is licensed under the MIT License. 
